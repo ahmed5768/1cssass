@@ -1,0 +1,51 @@
+.main{
+    color: white;
+    background-color: #102846;
+    width: auto;
+    height: 110px;
+    padding: 40px;
+    margin: 0px;
+    text-align: center;
+}
+.table1{
+    color: white;
+    background-color: #2772db;
+    width: 1333px;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+table, th:hover{
+    background-color: #102846;
+    height: 15px;
+}
+.menu{
+    color: white;
+    background-color: #9ba6a5;
+    text-align: center;
+    /* height: 50px; */
+    width: auto;
+    padding: 10px;
+}
+.table2{
+    color: white;
+    background-color: #102846;
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+}
+table ,td:hover{
+    background-color: aqua;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.img{
+    height: 450px;
+    width: 650px;
+    margin-left: 28px;
+}
+.map{
+    width: 650px;
+}
